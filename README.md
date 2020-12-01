@@ -6,4 +6,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Via email matt.cohen.cs@gmail.com
 - ⚡ Fun fact: ... I served four years in the military.
-
+- :eyes: ... sudo rm -rf /
